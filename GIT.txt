@@ -1,0 +1,13 @@
+git init : local repository initialization
+git status : to know the status of your local repso
+git add. : to add all the changes 
+configuration for the first time:
+git config --global user.name "your name"
+git config --global user.email "your mail"
+git commit -m "message for changes" : save the changes permanently in local repo
+git remote add origin "url of your remote repo":used to establish a bridge b/w local repo and 
+git push - u origin
+git branch:
+git branch-M
+git switch<branchname>
+git checkout -b

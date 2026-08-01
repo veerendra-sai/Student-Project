@@ -1,0 +1,14 @@
+HTML:
+charset:- character set
+UTF-8:-It's a standard system>It defines:
+
+Which number represents A
+
+Which number represents ₹
+
+Which number represents Chinese characters
+
+Which number represents emojis 😊
+One-Line Simple Meaning
+
+A “standard way of encoding characters” means a universal system that assigns specific numbers to letters and symbols so all computers can display text correctly.
